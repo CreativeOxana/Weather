@@ -115,4 +115,4 @@ function handleSubmit(event) {
 let form = document.getElementById("search-form");
 form.addEventListener("submit", handleSubmit);
 
-search("Kišiněv");
+search("Chisinau");
