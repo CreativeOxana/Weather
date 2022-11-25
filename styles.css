@@ -38,6 +38,7 @@ li:first-letter {
   padding: 20px;
   border: 1px solid lightgrey;
   border-radius: 5px;
+  background: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);
 }
 
 .overview {
